@@ -1,4 +1,4 @@
-# Deciphering Narratives: AI- Driven Storytelling with User - Centric NLP Dialogue
+# Deciphering Narratives: AI - Driven Storytelling with User - Centric NLP Dialogue
 
 ## Overview
 This project demonstrates an AI-driven storytelling system that creates immersive narratives based on user input. It showcases the system's responsiveness, adaptability, and seamless integration of user creativity into story generation.
