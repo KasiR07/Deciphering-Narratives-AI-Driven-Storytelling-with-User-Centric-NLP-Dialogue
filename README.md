@@ -5,7 +5,7 @@ This project demonstrates an AI-driven storytelling system that creates immersiv
 
 ## Demonstration Setup
 - **Environment**: Deployed on AWS using Amazon SageMaker for optimal efficiency.
-- **Backend**: Utilizes Facebook AI Similarity Search (FAISS) for efficient context retrieval.
+- **Backend**: Utilizes Facebook AI Similarity Search (FAISS) for efficient context retrieval
 
 ## Description of Modules
 
